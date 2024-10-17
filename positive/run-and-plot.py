@@ -63,7 +63,7 @@ def error(x, ref):
 title = "coefficients sampled uniformly in [0,1]"
 plt.figure(title, figsize=(4.7, 4.7))
 plt.suptitle(title)
-plt.xlabel("$d+1$")
+plt.xlabel("$d+2$")
 plt.xscale('log', base=2)
 plt.yscale('log', base=2)
 plt.ylabel("Error")
