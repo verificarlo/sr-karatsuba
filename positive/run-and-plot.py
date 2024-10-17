@@ -24,7 +24,7 @@ lam = 0.1
 # SR samples
 sr_samples = 3
 
-# polynomial degrees (the values are actually d+1)
+# polynomial degrees (the values are actually d+2)
 d_values = [2**k for k in range(2, 17)]
 
 
