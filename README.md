@@ -1,4 +1,4 @@
-# sr-variance-bounds
+# sr-karatsuba
 
 Scripts to reproduce the numerical experiments of the paper "Error Functions and Martingales in Stochastic Rounding".
 
