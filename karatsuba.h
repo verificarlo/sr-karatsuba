@@ -100,8 +100,8 @@ int main(int argc, char *argv[]) {
   // run tests
   test();
 
-  // parse arguments: d+1, repetitions
-  assert(argc == 3 && "usage: ./karatsuba <d+1> <repetitions>");
+  // parse arguments: d+2, repetitions
+  assert(argc == 3 && "usage: ./karatsuba <d+2> <repetitions>");
 
   // deg is the degree of the resulting polynomial + 2
   long deg = strtol(argv[1], NULL, 10);
